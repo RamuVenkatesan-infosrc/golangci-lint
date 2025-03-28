@@ -1,6 +1,6 @@
 name: Add new linter checklist
 
-on:
+on: 
   workflow_dispatch:
     inputs:
       pr:
